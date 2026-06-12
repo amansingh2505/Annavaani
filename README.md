@@ -1,4 +1,4 @@
-# 🌐 Mini Anveshana 2025-26# 🌐  SMART STORAGE GRAIN SYSTEM#
+# 🌐 Mini Anveshana 2025-26 And Technoverse# 🌐  Annavaani#
 
 
 A full-stack IoT monitoring system featuring real-time sensor data visualization, cloud storage, and intelligent Telegram notifications for grain storage monitoring.
