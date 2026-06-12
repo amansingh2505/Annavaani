@@ -5,7 +5,7 @@ A full-stack IoT monitoring system featuring real-time sensor data visualization
 
 ---
 
-## 🚀 **[VIEW LIVE DASHBOARD →](https://sparsh2321084.github.io/Mini-Anveshana_2025-26/)**
+## 🚀 **[VIEW LIVE DASHBOARD →](https://amansingh2505.github.io/Annavaani/)**
 
 ---
 
