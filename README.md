@@ -222,25 +222,7 @@ npm install
 
 ```bash### 3️⃣ ESP32 Setup
 
-cd backend
 
-npm install1. Open `esp32-firmware/main.ino` in Arduino IDE
-
-npm start2. Install required libraries (WiFi, HTTPClient, ArduinoJson)
-
-```3. Configure WiFi credentials in `config.h`
-
-4. Upload to ESP32
-
-### Frontend
-
-```bash### 4️⃣ Telegram Bot Setup
-
-cd frontend
-
-npm install1. Create bot via [@BotFather](https://t.me/botfather)
-
-npm run dev2. Get bot token
 
 ```3. Add token to backend `.env` file
 
@@ -325,34 +307,6 @@ Mini Anveshana Science Project Competition organized by [Agastya International F
 Agastya International Foundation is India's largest Science Education NGO, bringing hands-on science education to underprivileged children across the country through mobile labs, campuses, and teacher training programs.- ✅ Configurable alert thresholds
 
 - ✅ Emoji-rich notifications
-
----
-
----
-
-## 🎯 Project Objectives
-
-## 🔐 Security Features
-
-1. **Real-time Monitoring** - Continuous environmental data collection
-
-2. **Cloud Integration** - Scalable backend for IoT applications- 🔒 API Key authentication for ESP32
-
-3. **User Alerts** - Instant notifications via Telegram- 🔒 JWT tokens for web dashboard
-
-4. **Data Visualization** - Interactive charts and 3D graphics- 🔒 Environment variable protection
-
-5. **Accessibility** - Web-based dashboard accessible from anywhere- 🔒 HTTPS/TLS encryption
-
-- 🔒 SQL injection prevention
-
----- 🔒 Rate limiting on API endpoints
-
-
-
-## 🏆 Features Demonstrated---
-
-
 
 - ✅ IoT sensor integration with ESP32## 📈 Future Enhancements
 
