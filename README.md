@@ -154,67 +154,6 @@ Message your bot to:│   ├── config.h
 
 ```env│   ├── src/
 
-API_KEY=ESP32_SECURE_API_KEY_2025│   │   ├── components/
-
-TELEGRAM_BOT_TOKEN=<your-bot-token>│   │   ├── pages/
-
-TELEGRAM_CHAT_ID=<your-chat-id>│   │   ├── services/
-
-TEMP_HIGH_THRESHOLD=35│   │   └── App.jsx
-
-TEMP_LOW_THRESHOLD=15│   └── package.json
-
-HUMIDITY_HIGH_THRESHOLD=70└── docs/                    # Documentation
-
-HUMIDITY_LOW_THRESHOLD=30    ├── API.md
-
-```    ├── DEPLOYMENT.md
-
-    └── TELEGRAM_SETUP.md
-
-### ESP32 Configuration```
-
-```cpp
-
-const char* ssid = "Your-WiFi-SSID";---
-
-const char* password = "Your-WiFi-Password";
-
-const char* serverURL = "https://mini-anveshana-2025-26.onrender.com/api/sensor-data";## 🚀 Quick Start
-
-const char* apiKey = "ESP32_SECURE_API_KEY_2025";
-
-```### 1️⃣ Backend Setup
-
-
-
----```bash
-
-cd backend
-
-## 📊 Alert Thresholdsnpm install
-
-cp .env.example .env
-
-| Parameter | Low Alert | High Alert |# Configure your environment variables
-
-|-----------|-----------|------------|npm run dev
-
-| Temperature | <15°C | >35°C |```
-
-| Humidity | <30% | >70% |
-
-### 2️⃣ Frontend Setup
-
-Alerts sent via Telegram with 5-minute cooldown to prevent spam.
-
-```bash
-
----cd frontend
-
-npm install
-
-## 🔧 Local Developmentnpm start
 
 ```
 
@@ -222,19 +161,6 @@ npm install
 
 ```bash### 3️⃣ ESP32 Setup
 
-
-
-```3. Add token to backend `.env` file
-
-4. Start bot with `/start` command
-
----
-
----
-
-## 📦 Project Structure
-
-## 📊 Features Breakdown
 
 ```
 
