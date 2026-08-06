@@ -48,8 +48,6 @@ This system integrates ESP32 microcontroller sensors with a modern web dashboard
 
 ---- 📱 **Responsive Design** - Works on desktop, tablet, and mobile
 
-- 🔧 **Scalable Design** - Easy to add more sensors in future
-
 ## 🏗️ System Architecture
 
 ---
