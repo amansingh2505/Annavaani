@@ -34,7 +34,7 @@ This system integrates ESP32 microcontroller sensors with a modern web dashboard
 
 - 📱 **Telegram Alerts** - Instant notifications when thresholds exceeded- 📊 **Real-time Web Dashboard** - Interactive charts and 3D visualizations using React
 
-- ☁️ **Cloud Deployment** - Backend on Render, Frontend on GitHub Pages- 📱 **Telegram Alerts** - Instant notifications when thresholds are exceeded
+- ☁️ **Cloud Deployment** - Backend on Render, Frontend on GitHub Pages- 📱 **Telegram Alerts** - Instant notifications when thresholds..
 
 - 🔐 **Secure API** - API Key authentication- 💾 **Cloud Database** - MongoDB on Render for historical data storage
 
