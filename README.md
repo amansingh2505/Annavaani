@@ -116,7 +116,7 @@ ESP32 (DHT11) → WiFi → Render Backend → GitHub Pages Dashboard## 🏗️ S
 
 - **Backend API:** https://grain-backend-kw0o.onrender.com/
 
-- **Health Check:** https://grain-backend-kw0o.onrender.com/health## 📂 Project Structure
+- **Health Check:** https://grain-backend-kw0o.onrender.com/health##
 
 
 
