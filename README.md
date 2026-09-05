@@ -162,7 +162,7 @@ Message your bot to:│   ├── config.h
 
 ```
 
-Mini-Anveshana_2025-26/### ESP32 Capabilities (Current)
+/### ESP32 Capabilities (Current)
 
 ├── backend/           # Node.js Express backend- ✅ DHT22 Temperature & Humidity sensor
 
